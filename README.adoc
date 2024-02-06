@@ -1,0 +1,24 @@
+=  GreenICheck
+
+.*Work in progress...*
+[%collapsible]
+====
+The full project is under development in another repository made private for now.
+====
+
+Although green coding is becoming more and more important to considerate for the digital development and sustainability of our world, it can be seen as a really tough process, especially when it comes to apply the https://github.com/cnumr/best-practices/tree/main[115 best Green IT practices] (for web eco-design).
+
+The main goals of this project are:
+
+* First, to provide a really simple tool that will help developers willing to make greener projects, through an ergonomic interface that will allow easy task management and quick progression feedback with diagrams.
+
+* Second, to promote a simpler way to know more about the best Green IT practices and how every developer can easily try to apply them.
+
+== Made with
+
+++++
+<div>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" title="Angular 17.1.1">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" title="NodeJS 20.11.0">
+</div>
+++++
